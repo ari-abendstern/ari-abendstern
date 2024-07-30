@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-Have you arrived here via a link in my CV to look at my GitHub Contributions Graph? 🟩🟩🟩⬜️⬜️
+**Have you arrived here via a link in my CV to look at my GitHub Contributions Graph?** 🟩🟩🟩⬜️⬜️
 
 Does the amount of coding I have (or haven't) been doing have the potential to influence a decision that might make a profound difference to my future? 🔮
 
